@@ -163,7 +163,6 @@ button.v-btn.v-btn--is-elevated.v-btn--has-bg.theme--dark.v-size--small.success 
     border-top-left-radius: 8px!important;
 }
 .webcamStream {
-    aspect-ratio: auto!important;
     border-bottom-right-radius: 1em;
     border-bottom-left-radius: 1em;
     border-top-left-radius: 0!important;
@@ -186,10 +185,6 @@ a.small-list-item.active-nav-item.v-list-item--active.v-list-item.v-list-item--l
 }
 .v-list-item--link:before {
     border-radius: 6px;
-}
-.v-card.v-sheet.theme--dark.panel.webcam-panel {
-    max-width: max-content;
-    margin: auto;
 }
 .ͼ2 .cm-gutters {
     background-color: rgb(3 1 4 / 77%);
